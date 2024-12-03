@@ -510,6 +510,16 @@ ul a {
 
   }
 
+  .grid-box1{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+  height: 300px;
+  box-sizing: border-box;
+
+}
+
   .work{
     width: 100%;
     margin-bottom: 0;
