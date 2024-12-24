@@ -268,7 +268,13 @@ ul li {
 }
 
 /* ABOUT SECTION */
-
+.main-section a{
+  font-family: 'inter';
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  font-style: italic;
+}
 
 .bd-placeholder-img {
   border-radius: 0px;
